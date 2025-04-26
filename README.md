@@ -1,15 +1,60 @@
-👋 Hi, I'm Jing You!
+<h1 align="center">Hi there, I'm Jing You 👋</h1>
 
-🎯 I'm passionate about Data Analytics and AI, with a strong background in business management, retail operations, and digital marketing.
+<p align="center">
+  🚀 Data Analytics | 📊 Business Intelligence | 🧠 AI Enthusiast
+</p>
 
-📚 Currently deepening my skills in SQL, Power BI, Tableau, Python, and Cloud technologies, with a focus on applying data-driven solutions to real-world business challenges.
+---
 
-🚀 I enjoy building projects related to sales analytics, customer behavior analysis, and business intelligence development.
+### 🌟 About Me
 
-🤝 Open to collaborations on data visualization, analytics-driven innovation, and AI-powered business optimization.
+- 🎯 Passionate about **Data Analytics and AI**  
+- 📚 Skilled in **SQL | Power BI | Tableau | Python | Excel | Cloud Basics**
+- 🏢 Previous experiences in **Business Management, Retail Operations, Digital Marketing**
+- 🐶 Fun Fact: **I once cared for 26 dogs at the same time** in my Dog Care Business — mastering logistics, patience, and teamwork!
 
-📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/jing-you84/) or explore my work here on GitHub!
+---
 
-😄 Pronouns: She/Her
+### 📈 What I Do
 
-🐶 Fun Fact: Before diving full-time into data, I ran a Dog Care business where I once cared for 26 dogs at the same time — mastering logistics, communication, and the art of patience, which now inspires my approach to teamwork and project management!
+- 🛠️ Transform complex data into meaningful business insights
+- 🎨 Create beautiful and actionable dashboards with Power BI and Tableau
+- 📚 Continuously learn and explore new technologies (Cloud, dbt, Machine Learning basics)
+
+---
+
+### 🚀 Current Focus
+
+- Building real-world data analytics projects  
+- Exploring the intersection of **AI + Business Analytics**  
+- Preparing to launch my career into the data-driven world 🌍
+
+---
+
+### 📫 Let's Connect!
+
+<a href="https://www.linkedin.com/in/jing-you84/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:your-email@example.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-YourEmail-red?logo=gmail&logoColor=white" />
+</a>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description |
+|:---|:---|
+| **Sales Analytics Dashboard** | Power BI dashboard analyzing sales trends, top products, customer segmentation |
+| **Customer Churn Analysis** | SQL + Power BI project predicting customer churn for telecom company |
+| **Financial Data Analysis** | Finance dashboard showing income, expenses, budget vs actual |
+
+> 👉 See more on my GitHub repositories!
+
+---
+
+<p align="center">
+  ✨ Always Learning • Always Improving • Always Growing ✨
+</p>
