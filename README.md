@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Newbeebeep
+- 👋 Hi, I’m Jing YoU 
 - 👀 I’m interested in Data analytics and AI 
 - 🌱 I’m currently learning Data analytics 
 - 💞️ I’m looking to collaborate on ...
