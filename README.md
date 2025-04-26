@@ -51,9 +51,19 @@
 | **Customer Churn Analysis** | SQL + Power BI project predicting customer churn for telecom company |
 | **Financial Data Analysis** | Finance dashboard showing income, expenses, budget vs actual |
 
-> 👉 See more on my GitHub repositories!
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=default" alt="Jing You's GitHub stats" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   ✨ Always Learning • Always Improving • Always Growing ✨
